@@ -1,0 +1,38 @@
+[23-Jun-2016 06:46:02 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 06:46:23 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:20:17 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/MechMasterApiController.php on line 57
+[23-Jun-2016 07:42:33 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:44:40 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:46:16 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:56:41 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:56:59 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:57:58 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[23-Jun-2016 07:58:23 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/vinitmishra9/public_html/app/protected/controllers/UserMasterApiController.php on line 57
+[24-Jun-2016 13:48:49 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:49:13 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:49:14 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:49:48 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:49:50 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:49:53 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:51:11 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:51:22 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:51:47 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:52:02 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 13:52:13 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 14:45:20 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 14:46:30 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[24-Jun-2016 14:47:45 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:27:21 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:27:54 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:28:32 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:51:56 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:52:19 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:54:02 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 05:54:02 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 06:07:10 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 06:09:08 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 06:39:11 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 06:39:31 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[25-Jun-2016 06:40:48 UTC] PHP Fatal error:  Class 'numerical, mobile' not found in /home/vinitmishra9/public_html/framework/validators/CValidator.php on line 175
+[31-Jul-2016 08:04:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vinitmishra9/public_html/mechserver/app/protected/controllers/RequestMasterController.php on line 169
+[31-Jul-2016 08:04:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/vinitmishra9/public_html/mechserver/app/protected/controllers/RequestMasterController.php on line 169
