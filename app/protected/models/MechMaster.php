@@ -50,7 +50,7 @@ class MechMaster extends CActiveRecord {
             array('mobile', 'length', 'max' => 10, 'min' => 10),
             // The following rule is used by search().
             // @todo Please remove those attributes that should not be searched.
-            array('id, name, email, mobile, pass, device_token, os, email_valid, mobile_valid, is_active, is_busy, is_logged_in', 'safe', 'on' => 'search'),
+            array('id, name, email, mobile, pass, device_token, os, email_valid, mobile_valid, is_active, is_busy, is_logged_in, added_on', 'safe', 'on' => 'search'),
         );
     }
 
